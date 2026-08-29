@@ -7,7 +7,7 @@ An interactive **Mobile Sales Data Dashboard** developed using **Microsoft Power
 
 ## 📊 Dashboard Preview
 
-![Mobile Sales Data Dashboard](Screenshots/My Dashboard.png)
+![Mobile Sales Data Dashboard](Screenshots/My _Dashboard.png)
 
 ## 🎯 Project Objective
 
